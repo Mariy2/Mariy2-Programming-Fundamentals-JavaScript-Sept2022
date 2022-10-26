@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+    color: royalblue;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p.blueParagraph{
+    color:blue
+}
